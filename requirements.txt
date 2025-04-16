@@ -1,0 +1,6 @@
+streamlit
+langchain-community
+# Add any other dependencies your app needs here, e.g.:
+# langchain 
+# openai
+# python-dotenv
