@@ -20,7 +20,7 @@ st.set_page_config(page_title="Sargent Manufacturing Support Chat") # Changed ti
 st.title("Sargent Manufacturing Support Chat")
 
 # --- Configuration ---
-MODEL_SERVER_URL_OLLAMA = "https://09bb-32-218-109-226.ngrok-free.app" # Base URL for ChatOllama
+MODEL_SERVER_URL_OLLAMA = "http://127.0.0.1:11434" # Base URL for ChatOllama
 LOADED_MODEL_ID = "deepseek-r1:8b" # Your chat model (ensure it's pulled in Ollama)
 
 PERSIST_DIRECTORY = "./chroma_db" # Same path used in ingest.py
