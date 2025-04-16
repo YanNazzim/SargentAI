@@ -1,0 +1,159 @@
+{
+  "SSL1": [
+    {
+      "device": "SSL1",
+      "title": "SSL1 Spring Latch",
+      "MechOptions": "",
+      "CylOptions": "std, 10, 10-21, 10-63, ...",
+      "finishes": "03, US03, 04, US04, 10, US10, ...",
+      "link": "https://storage.googleapis.com/aa-americas/dam/AADSS1086890",
+      "text": "View Mounting Template Doc# 4263",
+      "link1": "https://storage.googleapis.com/aa-americas/dam/AADSS1055593",
+      "text1": "View Curved & Straight Lip Strike Template Doc# 7063",
+      "installation": [
+        {
+          "device": "SSL1",
+          "title": "SSL1 Spring Latch Installation Instructions",
+          "link": "https://storage.googleapis.com/aa-americas/dam/AADSS1175905",
+          "text": "View Installation Instructions Doc# A7963"
+        },
+        {
+          "device": "SSL1",
+          "title": "SSL1 Spring Latch Catalog (Aux Locks)",
+          "link": "https://www.sargentlock.com/en/view-pdf?id=AADSS1004857&page=3",
+          "text": "View Auxiliary Locks Catalog Doc# 90129"
+        }
+      ]
+    }
+  ],
+  "8200": [
+    {
+      "device": "8200",
+      "title": "8200 Deadbolt",
+      "functions": "8203, 8220, 8221, 8222, 8223, Deadbolt, DB, Deadlock, Classroom Deadlock, CLassroom",
+      "MechOptions": "1, 23, 28, 31, 36, 37, 74, LB, SG, WBS",
+      "CylOptions": "std, 10, 10-21, 10-63, 11, 11-21, 11-60, 11-63, 11-64, 11-70-7P, 11-72-7P, 11-73-7P, 11-65-73-7P, 21, 22, 51, 52, 60, 63, 64, 70, 72, 73, 65, 7P, 65-73, 65-73-7P, 73-7P, 80, 81, 82, F1, F1-82, 83, F1-83, 124, 127, 84, BR, LC, SC, SE, SF, BR, KD, 30, VC, YC, YRC, YRC-7P, YC-7P, DG1, DG1-21, DG1-60, DG1-63, DG1-64, DG1-65, DG2, DG2-21, DG2-60, DG2-63, DG2-64, DG2-65, DG3, DG3-21, DG3-60, DG3-63, DG3-64, DG3-65",
+      "finishes": "03, US03, 04, US04, 10, US10, 10B, 10BE, 10BL, 20D, 14, 15, US14, US15, 26, US26, 26D, 32, 32D, BSP, WSP",
+      "handing": "LHR, LH, LHRB, RHR, RH, RHRB",
+      "voltage": "12V, 24V, 12 V, 24 V, V",
+      "link1": "https://storage.googleapis.com/aa-americas/dam/AADSS1055660",
+      "text1": "View Mounting Template Doc# 7057",
+      "link2": "https://storage.googleapis.com/aa-americas/dam/AADSS1055593",
+      "text2": "View Curved & Straight Lip Strike Template Doc# 7063",
+      "link3": "https://storage.googleapis.com/aa-americas/dam/AADSS1055661",
+      "text3": "View 78-0034 Deadbolt Strike Template Doc# 7064",
+      "installation": [
+        {
+          "device": "8200",
+          "title": "8200 Deadbolt Catalog Page",
+          "link": "https://www.sargentlock.com/en/view-pdf?id=AADSS1004857&page=4",
+          "text": "View Auxiliary Locks Catalog Doc# 90129"
+        },
+        {
+          "device": "8200",
+          "title": "8200 Deadbolt Parts Manual",
+          "link": "https://storage.googleapis.com/aa-americas/dam/AADSS1014667",
+          "text": "View Parts Manual Doc# A4741"
+        }
+      ]
+    }
+  ],
+  "9200": [
+    {
+      "device": "9200",
+      "title": "9200 Deadlatch",
+      "functions": "9203, 9220, 9221, 9222, 9223, Deadlatch, DL, Deadlock, Classroom Deadlock, CLassroom",
+      "MechOptions": "1, 23, 28, 31, 36, 37, 74, LB, SG, WBS",
+      "CylOptions": "same as 8200",  
+      "finishes": "same as 8200",
+      "handing": "same as 8200",
+      "voltage": "same as 8200",
+      "link": "https://storage.googleapis.com/aa-americas/dam/AADSS1055662",
+      "text": "View Mounting Template Doc# 7058",
+      "link1": "https://storage.googleapis.com/aa-americas/dam/AADSS1055593",
+      "text1": "View Curved & Straight Lip Strike Template Doc# 7063",
+      "link2": "https://storage.googleapis.com/aa-americas/dam/AADSS1055661",
+      "text2": "View 78-0034 Deadbolt Strike Template Doc# 7064",
+      "installation": [
+        {
+          "device": "9200",
+          "title": "9200 Deadlatch Catalog (Aux Locks)",
+          "link": "https://www.sargentlock.com/en/view-pdf?id=AADSS1004857&page=5",
+          "text": "View Auxiliary Locks Catalog Doc# 90129"
+        },
+        {
+          "device": "9200",
+          "title": "9200 Deadlatch Parts Manual",
+          "link": "https://storage.googleapis.com/aa-americas/dam/AADSS1014667",
+          "text": "View Parts Manual Doc# A4741"
+        }
+      ]
+    }
+  ],
+  "4870": [
+    {
+      "device": "4870",
+      "title": "4870 Deadbolt for Narrow Stile Doors",
+      "functions": "4870, narrow, stile, aluminum, storefront, glass, bolt",
+      "MechOptions": "standard, mortise",
+      "CylOptions": "std, 10, 10-63, 11-60, 11-63",
+      "finishes": "10B, 32D, US32D",
+      "handing": "Non-Handed",
+      "voltage": "",
+      "link": "https://storage.googleapis.com/aa-americas/dam/AADSS1086884",
+      "text": "View Mounting Template Doc# 4264",
+      "installation": [
+        {
+          "device": "4870",
+          "title": "4870 Deadbolt Catalog Page",
+          "link": "https://www.sargentlock.com/en/view-pdf?id=AADSS1004857&page=5",
+          "text": "Visit Product Page"
+        }
+      ]
+    }
+  ],
+  "480": [
+    {
+      "device": "480",
+      "title": "480 Deadlatch",
+      "functions": "480, deadlatch, narrow stile, storefront, glass door, aluminum",
+      "MechOptions": "standard, mortise",
+      "CylOptions": "std, 10, 10-63, 11-60, 11-63",
+      "finishes": "10B, 32D, US32D",
+      "handing": "Non-Handed",
+      "voltage": "",
+      "link": "https://storage.googleapis.com/aa-americas/dam/AADSS1086885",
+      "text": "View Mounting Template Doc# 4265",
+      "installation": [
+        {
+          "device": "480",
+          "title": "480 Deadlatch Catalog Page ",
+          "link": "https://www.sargentlock.com/en/view-pdf?id=AADSS1004857&page=6",
+          "text": "Visit Product Page"
+        }
+      ]
+    }
+  ],
+  "460": [
+    {
+      "device": "460",
+      "title": "460 Deadlatch",
+      "functions": "460, deadlatch, narrow stile, storefront, glass door, aluminum",
+      "MechOptions": "standard, mortise",
+      "CylOptions": "std, 10, 10-63, 11-60, 11-63",
+      "finishes": "10B, 32D, US32D",
+      "handing": "Non-Handed",
+      "voltage": "",
+      "link": "https://storage.googleapis.com/aa-americas/dam/AADSS1086886",
+      "text": "View Mounting Template Doc# 4266",
+      "installation": [
+        {
+          "device": "460",
+          "title": "460 Deadlatch Narrow Stile Catalog",
+          "link": "https://www.sargentlock.com/en/products/mechanical-locks/auxiliary-locks/narrow-stile/460-series/",
+          "text": "Visit Product Page"
+        }
+      ]
+    }
+  ]
+}
